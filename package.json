@@ -5,5 +5,23 @@
     "mysql2": "^3.2.1",
     "sequelize": "^6.31.0",
     "sqlite3": "^5.1.6"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewbaty/employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewbaty/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/matthewbaty/employee-tracker#readme"
 }
